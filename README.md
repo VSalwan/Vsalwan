@@ -16,7 +16,7 @@ Frontend Developer</h1>
 <h3 align="left">Codding Profiles:</h3>
 <p align="left">
 
-<a href="https://www.leetcode.com/https://leetcode.com/u/vishvamsalwan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vishvamsalwan/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/VishvamSalwan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vishvamsalwan/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@vsalwan_be20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vsalwan_be20" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vsalwanbe20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vsalwanbe20" height="30" width="40" /></a>
 </p>
