@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishvam Salwan <br> 
-Frontend Developer</h1>
+Software Developer</h1>
 <h3 align="center">With a Passion for solving problems that inovate creativity and innovation</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsalwan&label=Profile%20views&color=0e75b6&style=flat" alt="vsalwan" /> </p>
-- 🔭 I’m currently working on **AngularJs and TypeScript**<br>
-- 🌱 I’m currently learning **AngularJs and TypeScript**<br>
+- 🔭 I’m currently working on **Python**<br>
+- 🌱 I’m currently learning **Python**<br>
 - 👨‍💻 All of my projects are available at https://vsalwan.github.io/Portfolio/<br>
 - 💬 Ask me about **Javascript E6, Angular, Typescript** <br>
 - 📫 How to reach me **vsalwan43@gmail.com**<br>
