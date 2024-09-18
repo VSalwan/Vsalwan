@@ -7,7 +7,7 @@ Software Developer</h1>
 - 🔭 I’m currently working on **Python**<br>
 - 🌱 I’m currently learning **Python**<br>
 - 👨‍💻 All of my projects are available at https://vsalwan.github.io/Portfolio/<br>
-- 💬 Ask me about **Javascript E6, Angular, Typescript** <br>
+- 💬 Ask me about **HTML, CSS, Javascript, C++, Python** <br>
 - 📫 How to reach me **vsalwan43@gmail.com**<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
